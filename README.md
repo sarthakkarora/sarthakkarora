@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sarthakkarora
+- 👀 I’m interested in web development and software development
+- 🌱 I’m currently learning JavaScript and exploring various frameworks.
+- 💞️ I’m looking to collaborate on my ongoing projects.
+- 📫 You can reach me at sarthakk.arora1@gmail.com.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I once accidentally walked into a pole while deeply engrossed in choosing the right color for my website!
