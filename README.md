@@ -8,8 +8,6 @@
 </center>
 
 
-# Hi there! 👋 I'm Sarthak
-
 👀 I’m interested in **web development** and **software development**.
 
 🌱 Currently, I'm diving deep into **JavaScript** and exploring various **frameworks**.
@@ -17,6 +15,8 @@
 💞️ I’m always open to **collaborating** on exciting projects.
 
 🌱 On track for mastering both **Web Development** and **Software Engineering**.
+
+🛠 I Craft Digital Solutions that make an Impact.
 
 🎨 When I'm not coding, you can find me playing **Badminton** and **Volleyball**, or expressing my creativity as a **Graphic Designer** and **Artist**.
 
