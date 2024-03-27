@@ -26,6 +26,8 @@
 
 🎨 When I'm not coding, you can find me playing **Badminton** and **Volleyball**, or expressing my creativity as a **Graphic Designer** and **Artist**.
 
+🔥 I am also kind of an adrenaline junky that loves modified cars and adventure. 
+
 🍎 Proud **MacOS fanboy**! 
 
 📧 Let's connect! You can reach me at sarthakk.arora1@gmail.com.
