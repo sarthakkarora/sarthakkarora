@@ -28,8 +28,6 @@
 
 🔥 I am also kind of an adrenaline junky that loves modified cars and adventure. 
 
-🍎 Proud **MacOS fanboy**! 
-
 📧 Let's connect! You can reach me at sarthakk.arora1@gmail.com.
 &nbsp;
 &nbsp;<br>
