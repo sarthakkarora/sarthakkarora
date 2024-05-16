@@ -34,6 +34,7 @@
 &nbsp;
 &nbsp;
 
+<!-- 
 # Programming Languages
 
 <img alt="Programming Languages" src="https://skills.thijs.gg/icons?i=c,cpp,py,java,js,html,css,react,next,mysql,tailwind">
@@ -41,6 +42,8 @@
 # Tools
 
 ![Tools](https://skills.thijs.gg/icons?i=git,github,gitlab,androidstudio,linux,arduino,autocad,bootstrap,photoshop,visualstudio,vscode,wordpress,figma,replit,aws,azure,gcp,anaconda,windows,apple,gmail,linkedin,redis,stackoverflow,sklearn)
+-->
+
 
 
 
