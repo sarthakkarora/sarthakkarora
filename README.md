@@ -35,7 +35,7 @@
 
 # Programming Languages
 <br>
-<p align="center">
+<p>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="50" alt="C" />
   </a>
