@@ -22,7 +22,7 @@
 
 🛠 I Craft Digital Solutions that make an Impact.
 
-🎨 When I'm not coding, you can find me playing **Badminton** and **Volleyball**, or expressing my creativity as a **Graphic Designer** and **Artist**.
+🎨 When I'm not coding, you can find me playing **Badminton** or **Volleyball**, or expressing my creativity as a **Graphic Designer** or **Giving random backgrounds to my website**.
 
 🔥 I am also kind of an adrenaline junky that loves modified cars and adventure. 
 
