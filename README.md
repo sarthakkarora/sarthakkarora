@@ -32,156 +32,150 @@
 &nbsp;
 &nbsp;
 
+## Programing Tools
+<div>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" width="50"/> 
+  </a> &nbsp; 
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c&theme=light" alt="C" width="50"/>
+  </a> &nbsp; 
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="C++" width="50"/> 
+  </a> &nbsp; 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript&theme=light" alt="JavaScript" width="50"/> 
+  </a> &nbsp; 
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python" width="50"/> 
+  </a> &nbsp; 
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=r&theme=light" alt="R" width="50"/> 
+  </a>
+</div>
 
-# Programming Languages
-<br>
-<p>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="50" alt="C" />
+## Operating Systems
+  <div>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" width="50"/>
+  </a> &nbsp; 
+  <a href="https://www.microsoft.com/en-us/windows/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=windows&theme=light" alt="Windows" width="50"/>
+  </a> &nbsp; 
+  <a href="https://www.apple.com/macos/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=macos&theme=light" alt="macOS" width="50"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="50" alt="C++" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" alt="Python" />
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="50" alt="Java" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" alt="JavaScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" alt="CSS3" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" alt="React" />
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="50" alt="NextJs" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" alt="MySQL" />
-  </a>
-  <a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="50" alt="TailwindCSS" />
-  </a>
-</p>
+</div>
 
-<!--
-# Tools
+## Data and Databases
+<div>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase&theme=light" alt="Firebase" width="50"/>
+  </a> &nbsp; 
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sqlite&theme=light" alt="SQLite" width="50"/>
+  </a> &nbsp; 
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" width="50"/>
+  </a>
+</div>
 
-![Tools](https://skills.thijs.gg/icons?i=git,github,gitlab,androidstudio,linux,arduino,autocad,bootstrap,photoshop,visualstudio,vscode,wordpress,figma,replit,aws,azure,gcp,anaconda,windows,apple,gmail,linkedin,redis,stackoverflow,sklearn)
+## Cloud and DevOps
+<div>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws&theme=light" alt="Amazon Web Services (AWS)" width="50"/>
+  </a> &nbsp; 
+  <a href="https://www.cloudflare.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cloudflare&theme=light" alt="Cloudflare" width="50"/> 
+  </a> &nbsp; 
+  <a href="https://www.netlify.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=netlify&theme=light" alt="Netlify" width="50"/>
+  </a> &nbsp; 
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" width="50"/> 
+  </a>
+</div>
 
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" alt="Git" />
+## Web Development
+<div>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML" width="50"/>
+  </a> &nbsp; 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS" width="50"/>
+  </a> &nbsp; 
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" width="50"/>
+  </a> &nbsp; 
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs&theme=light" alt="Next.js" width="50"/>
+  </a> &nbsp; 
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="Tailwind CSS" width="50"/>
+  </a> &nbsp; 
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" alt="Bootstrap" width="50"/>
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="50" alt="GitHub" />
-  </a>
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gitlab-colored.svg" width="50" alt="GitLab" />
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/androidstudio-colored.svg" width="50" alt="Android Studio" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="50" alt="Linux" />
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="50" alt="Arduino" />
-  </a>
-  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/autocad-colored.svg" width="50" alt="AutoCAD" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50" alt="Bootstrap" />
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="50" alt="Photoshop" />
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudio-colored.svg" width="50" alt="Visual Studio" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="50" alt="VS Code" />
-  </a>
-  <a href="https://wordpress.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="50" alt="Wordpress" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="50" alt="Figma" />
-  </a>
-  <a href="https://replit.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/replit-colored.svg" width="50" alt="Replit" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="50" alt="Amazon Web Services" />
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="50" alt="Microsoft Azure" />
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="50" alt="Google Cloud" />
-  </a>
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/anaconda-colored.svg" width="50" alt="Anaconda" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/windows-colored.svg" width="50" alt="Windows" />
-  </a>
-  <a href="https://www.apple.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="50" alt="MacOS" />
-  </a>
-  <a href="https://mail.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gmail-colored.svg" width="50" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linkedin-colored.svg" width="50" alt="LinkedIn" />
-  </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="50" alt="Redis" />
-  </a>
-  <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/stackoverflow-colored.svg" width="50" alt="Stack Overflow" />
-  </a>
-  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-    <img src
+</div> 
 
+## Design and Prototyping
+<div>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/SVG" target="_blank">
+    <img src="https://skillicons.dev/icons?i=svg&theme=light" alt="SVG" width="50"/>
+  </a> &nbsp; 
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma&theme=light" alt="Figma" width="50"/>
+  </a> &nbsp; 
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ps&theme=light" alt="Adobe Photoshop" width="50"/>
+  </a>
+</div>
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="36" height="36" alt="GitHub" /></a>
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gitlab-colored.svg" width="36" height="36" alt="GitLab" /></a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/androidstudio-colored.svg" width="36" height="36" alt="Android Studio" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-<a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/autocad-colored.svg" width="36" height="36" alt="AutoCAD" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudio-colored.svg" width="36" height="36" alt="Visual Studio" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://replit.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/replit-colored.svg" width="36" height="36" alt="Replit" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Microsoft Azure" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/anaconda-colored.svg" width="36" height="36" alt="Anaconda" /></a>
-<a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/windows-colored.svg" width="36" height="36" alt="Windows" /></a>
-<a href="https://www.apple.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
-<a href="https://mail.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gmail-colored.svg" width="36" height="36" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linkedin-colored.svg" width="36" height="36" alt="LinkedIn" /></a>
-<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" height="36" alt="Redis" /></a>
-<a href="https://stackoverflow.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/stackoverflow-colored.svg" width="36" height="36" alt="Stack Overflow" /></a>
-<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sklearn-colored.svg" width="36" height="36" alt="scikit-learn" /></a>
-</p>
--->
-<br>
+## Version Control and Collaboration
+<div>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" width="50"/>
+  </a> &nbsp; 
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" width="50"/>
+  </a> &nbsp; 
+  <a href="https://about.gitlab.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gitlab&theme=light" alt="GitLab" width="50"/>
+  </a>
+</div>
+
+## Development Tools
+<div>
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=visualstudio&theme=light" alt="Visual Studio" width="50"/>
+  </a> &nbsp; 
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" width="50"/>
+  </a> &nbsp; 
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tensorflow&theme=light" alt="TensorFlow" width="50"/>
+  </a> &nbsp; 
+  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
+    <img src="https://skillicons.dev/icons?i=autocad&theme=light" alt="Autodesk AutoCAD" width="50"/>
+  </a> &nbsp; 
+</div>
+
+## Online Platforms and Communities
+<div>
+  <a href="https://stackoverflow.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow&theme=light" alt="Stack Overflow" width="50"/> 
+  </a> &nbsp; 
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" width="50"/>
+  </a> &nbsp; 
+  <a href="https://en.wikipedia.org/wiki/Fediverse" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fediverse&theme=light" alt="Fediverse" width="50"/>
+  </a> &nbsp; 
+  <a href="https://codepen.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=codepen&theme=light" alt="CodePen" width="50"/> 
+  </a>
+</div>
+
 
 # Sarthak's Contribution Graph
 
