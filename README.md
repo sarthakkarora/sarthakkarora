@@ -160,21 +160,7 @@
   </a> &nbsp; 
 </div>
 
-## Online Platforms and Communities
-<div>
-  <a href="https://stackoverflow.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow&theme=light" alt="Stack Overflow" width="50"/> 
-  </a> &nbsp; 
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" width="50"/>
-  </a> &nbsp; 
-  <a href="https://en.wikipedia.org/wiki/Fediverse" target="_blank">
-    <img src="https://skillicons.dev/icons?i=fediverse&theme=light" alt="Fediverse" width="50"/>
-  </a> &nbsp; 
-  <a href="https://codepen.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codepen&theme=light" alt="CodePen" width="50"/> 
-  </a>
-</div>
+
 
 
 # Sarthak's Contribution Graph
