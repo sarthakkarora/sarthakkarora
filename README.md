@@ -175,8 +175,6 @@
 <a><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://i.imgur.com/mtxy6y7.png"></a>
 
 
-<a><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://i.imgur.com/5iZXUp0.png"></a>
-
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 <br/>
