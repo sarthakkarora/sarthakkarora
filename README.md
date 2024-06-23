@@ -175,15 +175,27 @@
 <a><img align="left" height="400" width="300" alt="𝙶𝙸𝙵" src="https://i.imgur.com/mtxy6y7.png"></a>
 
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+ **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 <br/>
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://w7.pngwing.com/pngs/351/692/png-transparent-linux-logo-linux-distribution-tux-gnu-linux-bird-linux-kernel.png"></code>
-<code><img height="40" width="40" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=java&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=c&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=cpp&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=javascript&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=r&theme=light"></code>
+
+# 
+
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=html&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=css&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=react&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=nextjs&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=tailwind&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=bootstrap&theme=light"></code>
+
+
 
 # 
 
@@ -192,6 +204,7 @@
 <code><img height="40" width="40" src="https://image.pngaaa.com/473/5398473-middle.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"></code>
 <code><img height="40" width="40" src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing.png"></code>
+
 
 
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
