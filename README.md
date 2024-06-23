@@ -32,145 +32,8 @@
 &nbsp;
 &nbsp;
 
+
 ## Programing Tools
-<div>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" width="50"/> 
-  </a> &nbsp; 
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c&theme=light" alt="C" width="50"/>
-  </a> &nbsp; 
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="C++" width="50"/> 
-  </a> &nbsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript&theme=light" alt="JavaScript" width="50"/> 
-  </a> &nbsp; 
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python" width="50"/> 
-  </a> &nbsp; 
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=r&theme=light" alt="R" width="50"/> 
-  </a>
-</div>
-
-## Operating Systems
-  <div>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" width="50"/>
-  </a> &nbsp; 
-  <a href="https://www.microsoft.com/en-us/windows/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=windows&theme=light" alt="Windows" width="50"/>
-  </a> &nbsp; 
-  <a href="https://www.apple.com/macos/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=macos&theme=light" alt="macOS" width="50"/>
-  </a>
-</div>
-
-## Data and Databases
-<div>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=firebase&theme=light" alt="Firebase" width="50"/>
-  </a> &nbsp; 
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sqlite&theme=light" alt="SQLite" width="50"/>
-  </a> &nbsp; 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" width="50"/>
-  </a>
-</div>
-
-## Cloud and DevOps
-<div>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws&theme=light" alt="Amazon Web Services (AWS)" width="50"/>
-  </a> &nbsp; 
-  <a href="https://www.cloudflare.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cloudflare&theme=light" alt="Cloudflare" width="50"/> 
-  </a> &nbsp; 
-  <a href="https://www.netlify.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=netlify&theme=light" alt="Netlify" width="50"/>
-  </a> &nbsp; 
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" width="50"/> 
-  </a>
-</div>
-
-## Web Development
-<div>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML" width="50"/>
-  </a> &nbsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS" width="50"/>
-  </a> &nbsp; 
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" width="50"/>
-  </a> &nbsp; 
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs&theme=light" alt="Next.js" width="50"/>
-  </a> &nbsp; 
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="Tailwind CSS" width="50"/>
-  </a> &nbsp; 
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" alt="Bootstrap" width="50"/>
-  </a>
-</div> 
-
-## Design and Prototyping
-<div>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/SVG" target="_blank">
-    <img src="https://skillicons.dev/icons?i=svg&theme=light" alt="SVG" width="50"/>
-  </a> &nbsp; 
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma&theme=light" alt="Figma" width="50"/>
-  </a> &nbsp; 
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ps&theme=light" alt="Adobe Photoshop" width="50"/>
-  </a>
-</div>
-
-## Version Control and Collaboration
-<div>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" width="50"/>
-  </a> &nbsp; 
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" width="50"/>
-  </a> &nbsp; 
-  <a href="https://about.gitlab.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gitlab&theme=light" alt="GitLab" width="50"/>
-  </a>
-</div>
-
-## Development Tools
-<div>
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=visualstudio&theme=light" alt="Visual Studio" width="50"/>
-  </a> &nbsp; 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" width="50"/>
-  </a> &nbsp; 
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tensorflow&theme=light" alt="TensorFlow" width="50"/>
-  </a> &nbsp; 
-  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
-    <img src="https://skillicons.dev/icons?i=autocad&theme=light" alt="Autodesk AutoCAD" width="50"/>
-  </a> &nbsp; 
-</div>
-
-
-
-
-# Sarthak's Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthakkarora&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
-
-
-
-
-#
 
 <a><img align="left" height="400" width="300" alt="𝙶𝙸𝙵" src="https://i.imgur.com/mtxy6y7.png"></a>
 
@@ -179,28 +42,28 @@
 <br/>
 <br/>
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=java&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=c&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=cpp&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=javascript&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=r&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=firebase&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=sqlite&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=mysql&theme=light"></code>
+<code><img height="43" width="43" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="43" width="43" src="https://skillicons.dev/icons?i=java&theme=light"></code>
+<code><img height="43" width="43" src="https://skillicons.dev/icons?i=c&theme=light"></code>
+<code><img height="43" width="43" src="https://skillicons.dev/icons?i=cpp&theme=light"></code>
+<code><img height="43" width="43" src="https://skillicons.dev/icons?i=javascript&theme=light"></code>
+<code><img height="43" width="43" src="https://skillicons.dev/icons?i=r&theme=light"></code>
+<code><img height="43" width="43" src="https://skillicons.dev/icons?i=firebase&theme=light"></code>
+<code><img height="43" width="43" src="https://skillicons.dev/icons?i=sqlite&theme=light"></code>
+<code><img height="43" width="43" src="https://skillicons.dev/icons?i=mysql&theme=light"></code>
 
 # 
 
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=html&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=css&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=react&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=nextjs&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=tailwind&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=bootstrap&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=aws&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=cloudflare&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=netlify&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=docker&theme=light"></code>
+<code><img height="45" width="45" src="https://skillicons.dev/icons?i=html&theme=light"></code>
+<code><img height="45" width="45" src="https://skillicons.dev/icons?i=css&theme=light"></code>
+<code><img height="45" width="45" src="https://skillicons.dev/icons?i=react&theme=light"></code>
+<code><img height="45" width="45" src="https://skillicons.dev/icons?i=nextjs&theme=light"></code>
+<code><img height="45" width="45" src="https://skillicons.dev/icons?i=tailwind&theme=light"></code>
+<code><img height="45" width="45" src="https://skillicons.dev/icons?i=bootstrap&theme=light"></code>
+<code><img height="45" width="45" src="https://skillicons.dev/icons?i=aws&theme=light"></code>
+<code><img height="45" width="45" src="https://skillicons.dev/icons?i=cloudflare&theme=light"></code>
+<code><img height="45" width="45" src="https://skillicons.dev/icons?i=netlify&theme=light"></code>
+<code><img height="45" width="45" src="https://skillicons.dev/icons?i=docker&theme=light"></code>
 
 
 
@@ -217,6 +80,22 @@
 <code><img height="50" width="50" src="https://skillicons.dev/icons?i=vscode&theme=light"></code>
 <code><img height="50" width="50" src="https://skillicons.dev/icons?i=tensorflow&theme=light"></code>
 <code><img height="50" width="50" src="https://skillicons.dev/icons?i=autocad&theme=light"></code>
+
+
+<br>
+
+
+<br>
+
+
+<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
+
+<br>
+<br>
+
+## Sarthak's Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthakkarora&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
 
 
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
