@@ -39,41 +39,40 @@
 
 <br> 
 <br> 
+<code><img style="margin-left: 10px;" height="47" width="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=java&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=c&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=cpp&theme=light"></code>
 
-<code><img style="margin-left: 10px;" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=java&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=c&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=cpp&theme=light"></code>
+<code><img style="margin-left: 10px;" height="47" width="47" src="https://skillicons.dev/icons?i=javascript&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=r&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=firebase&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=sqlite&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=mysql&theme=light"></code>
 
-<code><img style="margin-left: 10px;" height="40" width="40" src="https://skillicons.dev/icons?i=javascript&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=r&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=firebase&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=sqlite&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=mysql&theme=light"></code>
+<code><img style="margin-left: 10px;" height="47" width="47" src="https://skillicons.dev/icons?i=html&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=css&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=react&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=nextjs&theme=light"></code>
 
-<code><img style="margin-left: 10px;" height="40" width="40" src="https://skillicons.dev/icons?i=html&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=css&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=react&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=nextjs&theme=light"></code>
+<code><img style="margin-left: 10px;" height="47" width="47" src="https://skillicons.dev/icons?i=tailwind&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=bootstrap&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=aws&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=cloudflare&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=netlify&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=docker&theme=light"></code>
 
-<code><img style="margin-left: 10px;" height="40" width="40" src="https://skillicons.dev/icons?i=tailwind&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=bootstrap&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=aws&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=cloudflare&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=netlify&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=docker&theme=light"></code>
+<code><img style="margin-left: 10px;" height="47" width="47" src="https://skillicons.dev/icons?i=svg&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=figma&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=ps&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=git&theme=light"></code>
 
-<code><img style="margin-left: 10px;" height="40" width="40" src="https://skillicons.dev/icons?i=svg&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=figma&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=ps&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=git&theme=light"></code>
-
-<code><img style="margin-left: 10px;" height="40" width="40" src="https://skillicons.dev/icons?i=github&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=gitlab&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=visualstudio&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=vscode&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=tensorflow&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=autocad&theme=light"></code>
+<code><img style="margin-left: 10px;" height="47" width="47" src="https://skillicons.dev/icons?i=github&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=gitlab&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=visualstudio&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=vscode&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=tensorflow&theme=light"></code>
+<code><img height="47" width="47" src="https://skillicons.dev/icons?i=autocad&theme=light"></code>
 
 <br>
 <br>
