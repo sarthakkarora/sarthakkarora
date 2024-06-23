@@ -53,8 +53,6 @@
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=sqlite&theme=light"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=mysql&theme=light"></code>
 
-
-
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=html&theme=light"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=css&theme=light"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=react&theme=light"></code>
@@ -66,11 +64,6 @@
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=cloudflare&theme=light"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=netlify&theme=light"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=docker&theme=light"></code>
-
-
-
-# 
-
 
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=svg&theme=light"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=figma&theme=light"></code>
