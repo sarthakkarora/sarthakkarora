@@ -207,16 +207,16 @@
 # 
 
 
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=svg&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=figma&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=ps&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=git&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=github&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=gitlab&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=visualstudio&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=vscode&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=tensorflow&theme=light"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=autocad&theme=light"></code>
+<code><img height="50" width="50" src="https://skillicons.dev/icons?i=svg&theme=light"></code>
+<code><img height="50" width="50" src="https://skillicons.dev/icons?i=figma&theme=light"></code>
+<code><img height="50" width="50" src="https://skillicons.dev/icons?i=ps&theme=light"></code>
+<code><img height="50" width="50" src="https://skillicons.dev/icons?i=git&theme=light"></code>
+<code><img height="50" width="50" src="https://skillicons.dev/icons?i=github&theme=light"></code>
+<code><img height="50" width="50" src="https://skillicons.dev/icons?i=gitlab&theme=light"></code>
+<code><img height="50" width="50" src="https://skillicons.dev/icons?i=visualstudio&theme=light"></code>
+<code><img height="50" width="50" src="https://skillicons.dev/icons?i=vscode&theme=light"></code>
+<code><img height="50" width="50" src="https://skillicons.dev/icons?i=tensorflow&theme=light"></code>
+<code><img height="50" width="50" src="https://skillicons.dev/icons?i=autocad&theme=light"></code>
 
 
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
