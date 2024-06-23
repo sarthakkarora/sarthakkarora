@@ -35,7 +35,7 @@
 
 ## Programing Tools
 
-<a><img align="left" height="400" width="300" alt="𝙶𝙸𝙵" src="https://i.imgur.com/mtxy6y7.png"></a>
+<a><img align="left" height="500" width="300" alt="𝙶𝙸𝙵" src="https://i.imgur.com/mtxy6y7.png"></a>
 
 
 <code><img height="47" width="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
