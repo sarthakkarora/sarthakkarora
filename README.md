@@ -185,6 +185,9 @@
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=cpp&theme=light"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=javascript&theme=light"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=r&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=firebase&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=sqlite&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=mysql&theme=light"></code>
 
 # 
 
@@ -194,17 +197,26 @@
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=nextjs&theme=light"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=tailwind&theme=light"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=bootstrap&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=aws&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=cloudflare&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=netlify&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=docker&theme=light"></code>
 
 
 
 # 
 
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://image.pngaaa.com/473/5398473-middle.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"></code>
-<code><img height="40" width="40" src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing.png"></code>
 
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=svg&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=figma&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=ps&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=git&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=github&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=gitlab&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=visualstudio&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=vscode&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=tensorflow&theme=light"></code>
+<code><img height="40" width="40" src="https://skillicons.dev/icons?i=autocad&theme=light"></code>
 
 
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
