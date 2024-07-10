@@ -15,15 +15,11 @@
 
 💞️ I’m always open to **collaborating** on exciting projects.
 
-💬 &nbsp;Ask me about anything related to CSS/HTML/Javascript/Python/Java.
+💬 &nbsp;Ask me about anything related to CSS/HTML/Javascript/React/Python/Java.
 
 🌱 On track for mastering both **Web Development** and **Software Engineering**.
 
 🛠 I Craft Digital Solutions that make an Impact.
-
-🎨 When I'm not coding, you can find me playing **Badminton** or **Volleyball**, or expressing my creativity as a **Graphic Designer** or **Giving random backgrounds to my website**.
-
-🔥 I am also kind of an adrenaline junky that loves modified cars and adventure. 
 
 📧 Let's connect! You can reach me at sarthakk.arora1@gmail.com.
 &nbsp;
