@@ -1,3 +1,4 @@
+<!-- ![Sarthak's GIF](https://camo.githubusercontent.com/aeccd107dc976c2b03742434d919359a948926e3b39c0c589df8ed66b69e915a/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30322f63732d616e2e676966) -->
 
 
 <center>
@@ -28,7 +29,7 @@
 &nbsp;
 
 
-## Programing Tools
+## My Tech Stack
 
 <a><img align="left" height="470" width="350" alt="𝙶𝙸𝙵" src="https://i.imgur.com/mtxy6y7.png"></a>
 
@@ -77,6 +78,6 @@
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
 
-## Sarthak's Contribution Graph
+## My Contribution Graph
 
-[![Sarthak's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthakkarora&theme=github-dark)](https://github.com/sarthakkarora)
+[![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthakkarora&theme=github-dark)](https://github.com/sarthakkarora)
