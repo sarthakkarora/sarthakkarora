@@ -3,7 +3,7 @@
 
 <center>
 
-# **Hi There 👋 ,  I'm Sarthak,**
+# **Hi There 👋 ,  I'm Sarthak**
 
 </center>
 <br>
