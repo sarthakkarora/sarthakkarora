@@ -57,7 +57,6 @@
 <code><img height="47" width="47" src="https://skillicons.dev/icons?i=aws&theme=light"></code>
 <code><img height="47" width="47" src="https://skillicons.dev/icons?i=cloudflare&theme=light"></code>
 <code><img height="47" width="47" src="https://skillicons.dev/icons?i=netlify&theme=light"></code>
-<code><img height="47" width="47" src="https://skillicons.dev/icons?i=docker&theme=light"></code>
 
 <code><img style="margin-left: 10px;" height="47" width="47" src="https://skillicons.dev/icons?i=svg&theme=light"></code>
 <code><img height="47" width="47" src="https://skillicons.dev/icons?i=figma&theme=light"></code>
