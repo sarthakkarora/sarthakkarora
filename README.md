@@ -71,7 +71,6 @@
 <code><img height="47" width="47" src="https://skillicons.dev/icons?i=autocad&theme=light"></code>
 
 <br>
-<br>
 
 
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
