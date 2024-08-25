@@ -3,11 +3,13 @@
 
 <center>
 
-# **Hi There 👋 ,  I'm Sarthak**
+# **Hi There** 👋  **I'm Sarthak**
 
 </center>
 <br>
 
+  ![](https://komarev.com/ghpvc/?username=sarthakkarora&label=Profile%20Visits&color=blue&style=for-the-badge)
+  
 👀 I’m interested in **web development** and **software development**.
 
 🌱 Currently, I'm diving deep into **JavaScript** and exploring various **frameworks**.
