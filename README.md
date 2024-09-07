@@ -1,4 +1,6 @@
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=Hi,%20I'm%20Sarthak%20Arora%20!!%20👋&fontSize=60&animation=fadeIn&fontAlignY=38&desc={Software%20Engineer}%20∪%20{Full%20Stack%20Web%20Developer}&descAlignY=51&descAlign=62) 
+
 
 <center>
 
