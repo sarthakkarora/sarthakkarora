@@ -13,13 +13,8 @@
 
 💞️ I’m always open to **collaborating** on exciting projects.
 
-💬 &nbsp;Ask me about anything related to CSS/HTML/Javascript/React/Python/Java.
-
 🌱 On track for mastering both **Web Development** and **Software Engineering**.
 
-🛠 I Craft Digital Solutions that make an Impact.
-
-📧 Let's connect! You can reach me at sarthakk.arora1@gmail.com.
 &nbsp;
 &nbsp;<br>
 &nbsp;
@@ -76,3 +71,9 @@
 ## My Contribution Graph
 
 [![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthakkarora&theme=github-dark)](https://github.com/sarthakkarora)
+
+
+## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="80px" height=40px> Connect with me
+
+You can reach me at sarthakk.arora1@gmail.com.
+
