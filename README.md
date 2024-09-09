@@ -1,9 +1,13 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=Hi,%20I'm%20Sarthak%20Arora%20!!%20👋&fontSize=65&fontAlignY=40&fontAlign=50&animation=fadeIn&desc=%20%f0%9f%92%bb%20Full%20Stack%20Web%20Developer%20%7C%20%F0%9F%93%8A%20Data%20Visualization%20Analyst&descSize=26&descAlignY=65&descAlign=50&descColor=ffffff&descBg=true&descAnimate=true&fontAlignX=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=Hi,%20I'm%20Sarthak%20Arora%20!!%20👋&fontSize=65&fontAlignY=40&fontAlign=50&animation=fadeIn&desc=%E2%9C%85%20Full%20Stack%20Web%20Developer%20%7C%20%F0%9F%93%8A%20Data%20Visualization%20Analyst&descSize=26&descAlignY=65&descAlign=50&descColor=ffffff&descBg=true&descAnimate=true&fontAlignX=50)
 
-<h2> <img src="https://cdn.edu.buncee.com/assets/48c9418aae96bd73814084fb7a379840/animation-imagination-speachbubble-0325820.gif" width=32px height=30px> About Me </h2>
 
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<center>
+
+# **Hi There** 👋  **I'm Sarthak**
+
+</center>
+<br>
 
 👀 I’m interested in **web development** and **software development**.
 
@@ -13,8 +17,13 @@
 
 💞️ I’m always open to **collaborating** on exciting projects.
 
+💬 &nbsp;Ask me about anything related to CSS/HTML/Javascript/React/Python/Java.
+
 🌱 On track for mastering both **Web Development** and **Software Engineering**.
 
+🛠 I Craft Digital Solutions that make an Impact.
+
+📧 Let's connect! You can reach me at sarthakk.arora1@gmail.com.
 &nbsp;
 &nbsp;<br>
 &nbsp;
@@ -71,9 +80,3 @@
 ## My Contribution Graph
 
 [![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthakkarora&theme=github-dark)](https://github.com/sarthakkarora)
-
-
-## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="80px" height=40px> Connect with me
-
-You can reach me at sarthakk.arora1@gmail.com.
-
